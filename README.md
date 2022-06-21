@@ -73,7 +73,9 @@ public class GameManager : MonoBehaviour
 }
  ```
  
-  ### Paddle.cs
+ <br><br><br>
+ 
+ ### Paddle.cs
   ```c#
   using System.Collections;
 using System.Collections.Generic;
