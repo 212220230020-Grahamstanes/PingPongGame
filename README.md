@@ -33,6 +33,8 @@ Edit-> Project settings-> Input -> Axes (2) -> Horizontal (name as PaddleLeft) a
 In PaddleRight (Negative button - down and positive buttom - up) and paddleLeft(Negative button - s and positive buttom - w)
  After completing, to move the ball, in the ball inspector give the value for speed
  
+ <br><br><br><br><br><br>
+ 
  ## Program:
  ### GameManager.cs
  ```c#
