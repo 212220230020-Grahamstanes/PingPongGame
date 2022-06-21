@@ -14,6 +14,9 @@ Right click creat-> 2D->spirates-> circle then create->2D->spirates->square. Dra
 For both the sprites->Add Components-> BoxCollider 2D (Tick in IsTigger) and Rigidbody 2D(Change the body type to Kinematics )
 ### Step 5:
 For both the sprites -> Add the tag. In inspector-> Tag-> Click AddTag and create the tag with name as(Paddle) and make the tag as Paddle so we can whether ball is hitting paddle or somewhere else in script. Similarly do for Ball.
+
+<br><br><br><br>
+
 ### Step 6:
 Drag the ball and paddle from hierarchy to the Asserts-> Sprites to create prefabs and reset the position of Paddle to (0,0,0) and delete ball and paddle from hierarchy.
 ### Step 7:
